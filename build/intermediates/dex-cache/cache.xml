@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.0_6d311d6c2d78e7b5e9a3fe57dc58c98bc34fe84f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cdae6add5cbc57596a23fae6cb8ea6f4e2fd5863">
+        <dex dex="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\pre-dexed\debug\instant-run_5b67c27d05ce8cc8bdd722ab4c5a2bc53c90d7dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_04d1f0a71d7095bb4e4565619ff7832de74c771f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0806ecbc881e0192692d8063f467f03de5254245">
+        <dex dex="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_97d230f51609c0e558b7c1bcf59e9f3a856f45be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_d4cd1c6bd2c599b812080a450807c9c216a82c95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.1.0_71937f71c8d9513c1d35faad3ad1fb65f5db57f5.jar" />
+    </item>
+    <item
+        jar="E:\AS_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Administrator\Desktop\BasicAccessibility\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_77eb5b06c98d7119bb28fd4400432a1a7eb2fb69.jar" />
+    </item>
+
+</items>
